@@ -102,7 +102,8 @@ List of symbols:
 | KZG10                             | :heavy_check_mark: | ✔️                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:             |
 | FRI                               | 🏗️                 | :x:                | :x:                | :heavy_check_mark: | :x:             |
 | IPA                               | 🏗️                 | ✔️                  | :heavy_check_mark: | :x:                | :x:             |
-| Brakedown                         | :x:                | :x: | :x:                | :x:                | :x:             |
+| Brakedown                         | :x:                | 🏗️ | :x:                | :x:                | :x:             |
+| Hyrax                             | :x:                | 🏗️ | :x:                | :x:                | :x:             |
 | Basefold                          | :x:                | :x: | :x:                | :x:                | :x:             |
 | **Folding Schemes** | **Lambdaworks** | **Arkworks**       | **Halo2** | **gnark** | **Constantine** |
 | Nova                | :x:             | :heavy_check_mark: | :x:       | :x:       | :x:             |
